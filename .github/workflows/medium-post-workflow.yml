@@ -1,0 +1,16 @@
+name: Latest medium post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-medium:
+    name: Update this repo's README with latest medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-LIST"
+          commit_message: "Updated readme with the latest medium post"
+          feed_list: "https://medium.com/feed/@weikangchia"
