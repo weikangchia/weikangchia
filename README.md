@@ -29,11 +29,13 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 <br/><br/>
 
-### 🍀 GitHub Stats
+### 🍀 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangchia&show_icons=true)
 
 ![GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weikangchia&layout=compact&hide=javascript,html,css)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=weikangchia&hide_title=true&hide_border=true&langs_count=5)
 
 
 [medium]: https://weikangchia.medium.com
