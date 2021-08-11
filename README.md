@@ -11,6 +11,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 - [8 Different Ways to Loop Through an Array in JavaScript](https://javascript.plainenglish.io/the-different-ways-to-loop-through-an-array-in-javascript-549aaab8e54f?source=rss-f534096234c5------2)
 <!-- MEDIUM-LIST:END -->
 
+### Open Source Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=gitcg)](https://github.com/weikangchia/gitcg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=op-converter)](https://github.com/weikangchia/op-converter)
+
+
 ### ⚒ Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][github]
