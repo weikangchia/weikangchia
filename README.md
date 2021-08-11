@@ -2,14 +2,14 @@
 
 I am a Software Engineer working in a small island in the Southeast Asia. I am passionate about technology and love to build things. Apart from building things, I usually spend my time reading and trying out new technology.
 
-### Connect with me:
+### 📮 Connect with Me
 
 [<img align="left" alt="weikangchia | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 [<img align="left" alt="weikangchia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
-### Languages and Tools:
+### ⚒ Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />][github]
@@ -27,7 +27,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 <br/><br/>
 
+### 🍀 GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangchia&show_icons=true)
+
+![GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weikangchia&layout=compact&hide=javascript,html,css)
 
 
 [medium]: https://weikangchia.medium.com
