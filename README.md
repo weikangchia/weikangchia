@@ -2,6 +2,15 @@
 
 I am a Software Engineer working in a small island in the Southeast Asia. I am passionate about technology and love to build things. Apart from building things, I usually spend my time reading and trying out new technology.
 
+### 📝 Latest Medium Articles
+<!-- MEDIUM-LIST:START -->
+- [How To Increment Versions For Maven Build Java Project — Part 2](https://medium.com/javarevisited/how-to-increment-versions-for-maven-build-java-project-part-2-eefdebc53f5b?source=rss-f534096234c5------2)
+- [How To Increment Versions For Maven Build Java Project — Part 1](https://medium.com/javarevisited/how-to-increment-versions-for-the-maven-build-java-project-a7596cc501c2?source=rss-f534096234c5------2)
+- [JUnit 5 Apache Spark Testing](https://medium.com/javarevisited/junit-5-spark-testing-bc8eb29b2238?source=rss-f534096234c5------2)
+- [7 Different Ways to Loop Through an Array in Java](https://medium.com/javarevisited/7-different-ways-to-loop-through-an-array-in-java-e0d04245c6aa?source=rss-f534096234c5------2)
+- [8 Different Ways to Loop Through an Array in JavaScript](https://javascript.plainenglish.io/the-different-ways-to-loop-through-an-array-in-javascript-549aaab8e54f?source=rss-f534096234c5------2)
+<!-- MEDIUM-LIST:END -->
+
 ### ⚒ Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][github]
@@ -19,15 +28,6 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />][github]
 
 <br/><br/>
-
-### Latest Medium Articles
-<!-- MEDIUM-LIST:START -->
-- [How To Increment Versions For Maven Build Java Project — Part 2](https://medium.com/javarevisited/how-to-increment-versions-for-maven-build-java-project-part-2-eefdebc53f5b?source=rss-f534096234c5------2)
-- [How To Increment Versions For Maven Build Java Project — Part 1](https://medium.com/javarevisited/how-to-increment-versions-for-the-maven-build-java-project-a7596cc501c2?source=rss-f534096234c5------2)
-- [JUnit 5 Apache Spark Testing](https://medium.com/javarevisited/junit-5-spark-testing-bc8eb29b2238?source=rss-f534096234c5------2)
-- [7 Different Ways to Loop Through an Array in Java](https://medium.com/javarevisited/7-different-ways-to-loop-through-an-array-in-java-e0d04245c6aa?source=rss-f534096234c5------2)
-- [8 Different Ways to Loop Through an Array in JavaScript](https://javascript.plainenglish.io/the-different-ways-to-loop-through-an-array-in-javascript-549aaab8e54f?source=rss-f534096234c5------2)
-<!-- MEDIUM-LIST:END -->
 
 ### 🍀 Stats
 
