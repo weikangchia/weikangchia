@@ -2,12 +2,12 @@
 
 I am a Software Engineer working in a small island in the Southeast Asia. I am passionate about technology and love to build things. Apart from building things, I usually spend my time reading and trying out new technology.
 
+<br/><br/>
+
 ### 📮 Connect with Me
 
 [<img align="left" alt="weikangchia | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 [<img align="left" alt="weikangchia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-
-<br/>
 
 ### ⚒ Languages and Tools
 
