@@ -2,15 +2,6 @@
 
 I am a Software Engineer working in a small island in the Southeast Asia. I am passionate about technology and love to build things. Apart from building things, I usually spend my time reading and trying out new technology.
 
-<br/>
-
-### 📮 Connect with Me
-
-[<img align="left" alt="weikangchia | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
-[<img align="left" alt="weikangchia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-
-<br/><br/>
-
 ### ⚒ Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][github]
@@ -29,6 +20,10 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 <br/><br/>
 
+### Latest Medium Articles
+<!-- MEDIUM-LIST:START -->
+<!-- MEDIUM-LIST:END -->
+
 ### 🍀 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangchia&show_icons=true)
@@ -36,6 +31,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 ![GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weikangchia&layout=compact&hide=javascript,html,css)
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=weikangchia&hide_title=true&langs_count=5)
+
+### 📮 Connect with Me
+
+[<img align="left" alt="weikangchia | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="weikangchia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
 
 [medium]: https://weikangchia.medium.com
