@@ -25,6 +25,10 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />][github]
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />][github]
 
+<br/><br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weikangchia&show_icons=true)
+
 
 [medium]: https://weikangchia.medium.com
 [linkedin]: https://linkedin.com/in/weikangchia
