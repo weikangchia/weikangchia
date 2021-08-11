@@ -1,4 +1,4 @@
-### Hi there, I am Wei Kang 👷‍
+### Hi there, I am Wei Kang 👷‍ - Once a Programmer, Always a Programmer
 
 I am a Software Engineer working in a small island in the Southeast Asia. I am passionate about technology and love to build things. Apart from building things, I usually spend my time reading and trying out new technology.
 
