@@ -4,7 +4,7 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 ### 📝 Latest Medium Articles
 <!-- MEDIUM-LIST:START -->
-- [3 Different Ways To Import Modules In TypeScript](https://javascript.plainenglish.io/3-different-ways-to-import-modules-in-typescript-7cd02d8e0da3?source=rss-f534096234c5------2)
+- [3 Different Ways to Import Modules in TypeScript](https://javascript.plainenglish.io/3-different-ways-to-import-modules-in-typescript-7cd02d8e0da3?source=rss-f534096234c5------2)
 - [How to Safely Concatenate URLs with Node.js](https://javascript.plainenglish.io/how-to-safely-concatenate-url-with-node-js-f6527b623d5?source=rss-f534096234c5------2)
 - [How To Increment Versions For Maven Build Java Project — Part 2](https://medium.com/javarevisited/how-to-increment-versions-for-maven-build-java-project-part-2-eefdebc53f5b?source=rss-f534096234c5------2)
 - [How To Increment Versions For Maven Build Java Project — Part 1](https://medium.com/javarevisited/how-to-increment-versions-for-the-maven-build-java-project-a7596cc501c2?source=rss-f534096234c5------2)
