@@ -14,6 +14,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 ### 🤖 Open Source Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=gitcg)](https://github.com/weikangchia/gitcg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=op-converter)](https://github.com/weikangchia/op-converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=pre-commit-hooks-plantuml)](https://github.com/weikangchia/pre-commit-hooks-plantuml)
+
+### 📱 Mobile Apps
+- [SG Supermarket](https://play.google.com/store/apps/details?id=com.appspot.khubite.sgsupermarket)
+- [SG TV Guide](https://play.google.com/store/apps/details?id=khubite.appspot.com.sgtvguide)
 
 
 ### ⚒ Languages and Tools
