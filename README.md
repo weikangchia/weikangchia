@@ -15,11 +15,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=gitcg)](https://github.com/weikangchia/gitcg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=op-converter)](https://github.com/weikangchia/op-converter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=pre-commit-hooks-plantuml)](https://github.com/weikangchia/pre-commit-hooks-plantuml)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weikangchia&repo=github-android-card)](https://github.com/weikangchia/github-android-card)
 
 ### 📱 Mobile Apps
 [![Readme Card](https://github-android-card.vercel.app/api/gplay-apps/com.appspot.khubite.sgsupermarket)](https://play.google.com/store/apps/details?id=com.appspot.khubite.sgsupermarket)
 [![Readme Card](https://github-android-card.vercel.app/api/gplay-apps/khubite.appspot.com.sgtvguide)](https://play.google.com/store/apps/details?id=khubite.appspot.com.sgtvguide)
-
 
 ### ⚒ Languages and Tools
 
