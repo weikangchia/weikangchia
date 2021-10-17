@@ -4,11 +4,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 ### 📝 Latest Medium Articles
 <!-- MEDIUM-LIST:START -->
+- [Part 1: How To Add OpenAPI 3.0 And Swagger To Spring Boot Application](https://weikangchia.medium.com/part-1-how-to-add-openapi-3-0-and-swagger-to-spring-boot-application-35c96422e94b?source=rss-f534096234c5------2)
 - [3 Different Ways to Import Modules in TypeScript](https://javascript.plainenglish.io/3-different-ways-to-import-modules-in-typescript-7cd02d8e0da3?source=rss-f534096234c5------2)
 - [How to Safely Concatenate URLs with Node.js](https://javascript.plainenglish.io/how-to-safely-concatenate-url-with-node-js-f6527b623d5?source=rss-f534096234c5------2)
 - [How To Increment Versions For Maven Build Java Project — Part 2](https://medium.com/javarevisited/how-to-increment-versions-for-maven-build-java-project-part-2-eefdebc53f5b?source=rss-f534096234c5------2)
 - [How To Increment Versions For Maven Build Java Project — Part 1](https://medium.com/javarevisited/how-to-increment-versions-for-the-maven-build-java-project-a7596cc501c2?source=rss-f534096234c5------2)
-- [JUnit 5 Apache Spark Testing](https://medium.com/javarevisited/junit-5-spark-testing-bc8eb29b2238?source=rss-f534096234c5------2)
 <!-- MEDIUM-LIST:END -->
 
 ### 🤖 Open Source Projects
