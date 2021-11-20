@@ -4,7 +4,7 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 ### 📝 Latest Medium Articles
 <!-- MEDIUM-LIST:START -->
-- [Practical Guide to JUnit 5 Parameterized Tests](https://medium.com/javarevisited/practical-guide-to-junit-5-parameterized-tests-38675ca749b0?source=rss-f534096234c5------2)
+- [Practical Guide to JUnit 5 Parameterized Tests](https://blog.gds-gov.tech/practical-guide-to-junit-5-parameterized-tests-38675ca749b0?source=rss-f534096234c5------2)
 - [Part 1: How To Add OpenAPI 3.0 And Swagger To Spring Boot Application](https://medium.com/javarevisited/part-1-how-to-add-openapi-3-0-and-swagger-to-spring-boot-application-35c96422e94b?source=rss-f534096234c5------2)
 - [3 Different Ways to Import Modules in TypeScript](https://javascript.plainenglish.io/3-different-ways-to-import-modules-in-typescript-7cd02d8e0da3?source=rss-f534096234c5------2)
 - [How to Safely Concatenate URLs with Node.js](https://javascript.plainenglish.io/how-to-safely-concatenate-url-with-node-js-f6527b623d5?source=rss-f534096234c5------2)
