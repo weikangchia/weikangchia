@@ -4,11 +4,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 ### 📝 Latest Medium Articles
 <!-- MEDIUM-LIST:START -->
+- [KrakenD: How to Deploy to Kubernetes](https://medium.com/javarevisited/krakend-how-to-deploy-to-kubernetes-bd1bf2173b0?source=rss-f534096234c5------2)
+- [Free Docker Desktop Alternative for Mac](https://medium.com/javarevisited/free-docker-desktop-alternative-for-mac-c3845d8a2345?source=rss-f534096234c5------2)
 - [Practical Guide to JUnit 5 Parameterized Tests](https://blog.gds-gov.tech/practical-guide-to-junit-5-parameterized-tests-38675ca749b0?source=rss-f534096234c5------2)
 - [Part 1: How To Add OpenAPI 3.0 And Swagger To Spring Boot Application](https://medium.com/javarevisited/part-1-how-to-add-openapi-3-0-and-swagger-to-spring-boot-application-35c96422e94b?source=rss-f534096234c5------2)
 - [3 Different Ways to Import Modules in TypeScript](https://javascript.plainenglish.io/3-different-ways-to-import-modules-in-typescript-7cd02d8e0da3?source=rss-f534096234c5------2)
-- [How to Safely Concatenate URLs with Node.js](https://javascript.plainenglish.io/how-to-safely-concatenate-url-with-node-js-f6527b623d5?source=rss-f534096234c5------2)
-- [How To Increment Versions For Maven Build Java Project — Part 2](https://medium.com/javarevisited/how-to-increment-versions-for-maven-build-java-project-part-2-eefdebc53f5b?source=rss-f534096234c5------2)
 <!-- MEDIUM-LIST:END -->
 
 ### 🤖 Open Source Projects
