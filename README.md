@@ -4,11 +4,11 @@ I am a Software Engineer working in a small island in the Southeast Asia. I am p
 
 ### 📝 Latest Medium Articles
 <!-- MEDIUM-LIST:START -->
+- [VisualVM: All-in-One Java Troubleshooting Tool](https://medium.com/javarevisited/visualvm-all-in-one-java-troubleshooting-tool-f13e388cea0a?source=rss-f534096234c5------2)
 - [Nuclei: A Community Powered Vulnerability Scanner](https://medium.com/javarevisited/nuclei-a-community-powered-vulnerability-scanner-3cb14bf0678a?source=rss-f534096234c5------2)
 - [Okteto: Free Managed Kubernetes Cluster](https://medium.com/javarevisited/okteto-free-managed-kubernetes-cluster-1834c873ae08?source=rss-f534096234c5------2)
 - [SDKMAN: The Software Development Kit Manager](https://medium.com/javarevisited/sdkman-37bf46727064?source=rss-f534096234c5------2)
 - [KrakenD: How to Deploy to Kubernetes](https://medium.com/javarevisited/krakend-how-to-deploy-to-kubernetes-bd1bf2173b0?source=rss-f534096234c5------2)
-- [Free Docker Desktop Alternative for Mac](https://medium.com/javarevisited/free-docker-desktop-alternative-for-mac-c3845d8a2345?source=rss-f534096234c5------2)
 <!-- MEDIUM-LIST:END -->
 
 ### 🤖 Open Source Projects
